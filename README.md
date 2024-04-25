@@ -38,3 +38,5 @@ The main components are (in order of use):
 * "Create testset" - contains manual annotations for testing reference extraction
 * "Approach 2.ipynb" - extracting references by title/date/url, grouping timelines with references to other timelines
 * "evaluate approaches.ipynb" - evaluate reference extraction, compare manual and generated timelines
+
+Also included is the full set of manually constructed decision histories
