@@ -1,0 +1,2740 @@
+{
+    "offset": 0,
+    "count": 1000000,
+    "type": [
+        "OBJ"
+    ], 
+    "items": [
+        {
+            "rank": 1,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=009fd1d9-dc31-4086-8132-18c568b0db61",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"009fd1d9-dc31-4086-8132-18c568b0db61","http:\/\/schema.org\/name":"Besluitenhistorie participatie 25 juni 2019.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=009fd1d9-dc31-4086-8132-18c568b0db61","http:\/\/schema.org\/fileSize":72508,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=03675b7f-3a66-4d12-878a-5caca2df82e9",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"03675b7f-3a66-4d12-878a-5caca2df82e9","http:\/\/schema.org\/name":"Bijlage 1 Besluitenhistorie Stadskantoor","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=03675b7f-3a66-4d12-878a-5caca2df82e9","http:\/\/schema.org\/fileSize":135780,"http:\/\/schema.org\/position":1}
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=03efecf7-9303-44c4-afd9-135a191c796d",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"03efecf7-9303-44c4-afd9-135a191c796d","http:\/\/schema.org\/name":"Besluitenhistorie Bestemmingsplan Hindesteinlaan.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=03efecf7-9303-44c4-afd9-135a191c796d","http:\/\/schema.org\/fileSize":117622,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=0454d040-0cc2-46a9-9edd-d1a8b652a59a",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"0454d040-0cc2-46a9-9edd-d1a8b652a59a","http:\/\/schema.org\/name":"Besluitenhistorie raadsvoorstel Uitvoering motie M236 - Pasjes ondergrondse vuilcontainers weg.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=0454d040-0cc2-46a9-9edd-d1a8b652a59a","http:\/\/schema.org\/fileSize":48280,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=04d84b2f-0a9f-4586-b783-280fe0167706",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"04d84b2f-0a9f-4586-b783-280fe0167706","http:\/\/schema.org\/name":"Bijlage 2 Besluitenhistorie Stationsplein Oost","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=04d84b2f-0a9f-4586-b783-280fe0167706","http:\/\/schema.org\/fileSize":80986,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=06a12533-91b2-490f-aa93-04add0fd7c34",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"06a12533-91b2-490f-aa93-04add0fd7c34","http:\/\/schema.org\/name":"Besluitenhistorie Samen voor Overvecht.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=06a12533-91b2-490f-aa93-04add0fd7c34","http:\/\/schema.org\/fileSize":46456,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 7,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=09ab9fe9-e513-4bfa-98c0-c317540856c2",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"09ab9fe9-e513-4bfa-98c0-c317540856c2","http:\/\/schema.org\/name":"Besluitenhistorie bij ontwerp beleidsplan 2020-2023 VRU.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=09ab9fe9-e513-4bfa-98c0-c317540856c2","http:\/\/schema.org\/fileSize":47078,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 8,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=0ac3d7d8-c7b7-4a6a-806e-0470af7bf8bf",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"0ac3d7d8-c7b7-4a6a-806e-0470af7bf8bf","http:\/\/schema.org\/name":"Besluitenhistorie Actualisatie regelgeving subsidies.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=0ac3d7d8-c7b7-4a6a-806e-0470af7bf8bf","http:\/\/schema.org\/fileSize":52650,"http:\/\/schema.org\/position":10}
+                }
+            ]
+        },
+        {
+            "rank": 9,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=0cb87edf-2e48-433e-b473-f0282fc0edf6",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"0cb87edf-2e48-433e-b473-f0282fc0edf6","http:\/\/schema.org\/name":"Besluitenhistorie Energielandschap Rijnenburg en Reijerscop.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=0cb87edf-2e48-433e-b473-f0282fc0edf6","http:\/\/schema.org\/fileSize":75180,"http:\/\/schema.org\/position":23}
+                }
+            ]
+        },
+        {
+            "rank": 10,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=0cda393f-f184-4fc5-91e3-7b92a0138841",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"0cda393f-f184-4fc5-91e3-7b92a0138841","http:\/\/schema.org\/name":"Besluitenhistorie Westflank Noord per augustus 2016","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=0cda393f-f184-4fc5-91e3-7b92a0138841","http:\/\/schema.org\/fileSize":237842,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 11,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=0eb158a3-1a1a-4bb0-b52b-c1675a13c7f4",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"0eb158a3-1a1a-4bb0-b52b-c1675a13c7f4","http:\/\/schema.org\/name":"Besluitenhistoriehotel-woningen","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=0eb158a3-1a1a-4bb0-b52b-c1675a13c7f4","http:\/\/schema.org\/fileSize":271277,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 12,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=109fd4bd-47aa-4690-9254-bfa267ec7a8c",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"109fd4bd-47aa-4690-9254-bfa267ec7a8c","http:\/\/schema.org\/name":"Besluitenhistorie Event Space Stationsplein.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=109fd4bd-47aa-4690-9254-bfa267ec7a8c","http:\/\/schema.org\/fileSize":91425,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 13,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1100db10-7c28-45ed-bd31-c5b7db975b4b",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"1100db10-7c28-45ed-bd31-c5b7db975b4b","http:\/\/schema.org\/name":"Bijlage 6 Besluitenhistorie Parkeergarage Jaarbeursplein","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1100db10-7c28-45ed-bd31-c5b7db975b4b","http:\/\/schema.org\/fileSize":44515,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 14,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=117bfc54-d153-4d86-a230-4aa797c4cb56",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"117bfc54-d153-4d86-a230-4aa797c4cb56","http:\/\/schema.org\/name":"Bijlage 3 Besluitenhistorie Muziekpaleis.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=117bfc54-d153-4d86-a230-4aa797c4cb56","http:\/\/schema.org\/fileSize":51817,"http:\/\/schema.org\/position":1}
+                }
+            ]
+        },
+        {
+            "rank": 15,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=148d9580-9951-4d74-af47-568561db68c9",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"148d9580-9951-4d74-af47-568561db68c9","http:\/\/schema.org\/name":"Bijlage 2 Besluitenhistorie Bibliotheek","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=148d9580-9951-4d74-af47-568561db68c9","http:\/\/schema.org\/fileSize":120931,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 16,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=14d03874-83b8-44aa-9e57-eda078f8613e",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"14d03874-83b8-44aa-9e57-eda078f8613e","http:\/\/schema.org\/name":"Bijlage 2 Besluitenhistorie fietsparkeren","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=14d03874-83b8-44aa-9e57-eda078f8613e","http:\/\/schema.org\/fileSize":79371,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 17,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=14facc8d-9b15-4466-bbe1-bf4717021d6d",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"14facc8d-9b15-4466-bbe1-bf4717021d6d","http:\/\/schema.org\/name":"Besluitenhistorie.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=14facc8d-9b15-4466-bbe1-bf4717021d6d","http:\/\/schema.org\/fileSize":39654,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 18,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=156c7857-c056-460e-9012-41d7a07030a7",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"156c7857-c056-460e-9012-41d7a07030a7","http:\/\/schema.org\/name":"Besluitenhistorie Energielandschap Rijnenburg en Reijerscop.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=156c7857-c056-460e-9012-41d7a07030a7","http:\/\/schema.org\/fileSize":75180,"http:\/\/schema.org\/position":23}
+                }
+            ]
+        },
+        {
+            "rank": 19,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1611e400-0d05-4561-89dc-bc0ecb3ab28b",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"1611e400-0d05-4561-89dc-bc0ecb3ab28b","http:\/\/schema.org\/name":"Bijlage 7 Besluitenhistorie Jaarbeursplein eo","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1611e400-0d05-4561-89dc-bc0ecb3ab28b","http:\/\/schema.org\/fileSize":48832,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 20,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=175d3f8e-05f3-4d02-9d75-6ae30da279e1",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"175d3f8e-05f3-4d02-9d75-6ae30da279e1","http:\/\/schema.org\/name":"Bijlage 3 Besluitenhistorie Bibliotheek","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=175d3f8e-05f3-4d02-9d75-6ae30da279e1","http:\/\/schema.org\/fileSize":74167,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 21,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=18e7ecb5-9fd6-4f13-8f2a-fabf301e2fc4",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"18e7ecb5-9fd6-4f13-8f2a-fabf301e2fc4","http:\/\/schema.org\/name":"Besluitenhistorie Samen voor Overvecht.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=18e7ecb5-9fd6-4f13-8f2a-fabf301e2fc4","http:\/\/schema.org\/fileSize":46456,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 22,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=19197683-24f0-4dcb-bd9d-52d09e2f45e6",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"19197683-24f0-4dcb-bd9d-52d09e2f45e6","http:\/\/schema.org\/name":"Besluitenhistorie Zuilense Vecht.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=19197683-24f0-4dcb-bd9d-52d09e2f45e6","http:\/\/schema.org\/fileSize":190900,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 23,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1bf35fe9-9cc5-4af5-8fc4-6fc287db2bdc",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"1bf35fe9-9cc5-4af5-8fc4-6fc287db2bdc","http:\/\/schema.org\/name":"Bijlage Besluitenhistorie Bestemmingsplan Gerbrandystraat 20, Lauwerecht","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1bf35fe9-9cc5-4af5-8fc4-6fc287db2bdc","http:\/\/schema.org\/fileSize":50742,"http:\/\/schema.org\/position":9}
+                }
+            ]
+        },
+        {
+            "rank": 24,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1c0381ab-4939-4a52-98fd-558198f916ae",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"1c0381ab-4939-4a52-98fd-558198f916ae","http:\/\/schema.org\/name":"Besluitenhistorie bij wijzigingsvoorstel APV tegengaan onveilig niet leefbaar en malafide ondernemersklimaat.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1c0381ab-4939-4a52-98fd-558198f916ae","http:\/\/schema.org\/fileSize":56651,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 25,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1d270fbb-4454-48c2-b22c-d0141efe8e01",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"1d270fbb-4454-48c2-b22c-d0141efe8e01","http:\/\/schema.org\/name":"Besluitenhistorie Digitalisering gehandicaptenparkeerkaart.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1d270fbb-4454-48c2-b22c-d0141efe8e01","http:\/\/schema.org\/fileSize":121067,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 26,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1d7b4020-da37-4f28-ab2b-6e0ca301f27f",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"1d7b4020-da37-4f28-ab2b-6e0ca301f27f","http:\/\/schema.org\/name":"Bijlage 5 Besluitenhistorie Sijpesteijnkade","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1d7b4020-da37-4f28-ab2b-6e0ca301f27f","http:\/\/schema.org\/fileSize":47445,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 27,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1d9d4a81-eb60-4306-95f8-a35b99d68f09",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"1d9d4a81-eb60-4306-95f8-a35b99d68f09","http:\/\/schema.org\/name":"Bijlage 3 Besluitenhistorie Stadskantoor","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1d9d4a81-eb60-4306-95f8-a35b99d68f09","http:\/\/schema.org\/fileSize":143516,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 28,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1e3838ba-3a09-4ccc-95f7-b9ad3ed9e951",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"1e3838ba-3a09-4ccc-95f7-b9ad3ed9e951","http:\/\/schema.org\/name":"Besluitenhistorie gemeenschappelijke regeling BghU.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1e3838ba-3a09-4ccc-95f7-b9ad3ed9e951","http:\/\/schema.org\/fileSize":46928,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 29,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1ed3c698-36c8-4457-8055-1893e289a805",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"1ed3c698-36c8-4457-8055-1893e289a805","http:\/\/schema.org\/name":"Besluitenhistorie Regionale Energiestrategie.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=1ed3c698-36c8-4457-8055-1893e289a805","http:\/\/schema.org\/fileSize":49050,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 30,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=203bdd32-8adc-4190-a576-10c67a79127e",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"203bdd32-8adc-4190-a576-10c67a79127e","http:\/\/schema.org\/name":"Bijlage Besluitenhistorie Smakkelaarsveld","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=203bdd32-8adc-4190-a576-10c67a79127e","http:\/\/schema.org\/fileSize":89933,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 31,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=20dbf3a0-f651-4259-975a-3bc8013604b5",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"20dbf3a0-f651-4259-975a-3bc8013604b5","http:\/\/schema.org\/name":"Besluitenhistorie ROM Regio Utrecht.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=20dbf3a0-f651-4259-975a-3bc8013604b5","http:\/\/schema.org\/fileSize":94315,"http:\/\/schema.org\/position":14}
+                }
+            ]
+        },
+        {
+            "rank": 32,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=22b46413-a896-4e86-8067-f9a4ada26897",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"22b46413-a896-4e86-8067-f9a4ada26897","http:\/\/schema.org\/name":"Bijlage 6 besluitenhistorie Zuidgebouw","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=22b46413-a896-4e86-8067-f9a4ada26897","http:\/\/schema.org\/fileSize":185766,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 33,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=22b60549-5504-495f-b6a2-ac808bf36cb7",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"22b60549-5504-495f-b6a2-ac808bf36cb7","http:\/\/schema.org\/name":"Besluitenhistorie bij ontwerp begroting 2020 VRU.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=22b60549-5504-495f-b6a2-ac808bf36cb7","http:\/\/schema.org\/fileSize":47001,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 34,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=245399a6-76ff-419b-a01f-357f50f6fa5f",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"245399a6-76ff-419b-a01f-357f50f6fa5f","http:\/\/schema.org\/name":"Bijlage 8 Besluitenhistorie Smakkelaarsveld","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=245399a6-76ff-419b-a01f-357f50f6fa5f","http:\/\/schema.org\/fileSize":23943,"http:\/\/schema.org\/position":10}
+                }
+            ]
+        },
+        {
+            "rank": 35,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=29834557-37a8-46e3-ad9e-cf06d79a478a",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"29834557-37a8-46e3-ad9e-cf06d79a478a","http:\/\/schema.org\/name":"Besluitenhistorie Smakkelaarsveld.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=29834557-37a8-46e3-ad9e-cf06d79a478a","http:\/\/schema.org\/fileSize":79132,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 36,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=2a8e7cbd-6ee4-4936-8624-dacb251edff8",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"2a8e7cbd-6ee4-4936-8624-dacb251edff8","http:\/\/schema.org\/name":"besluitenhistorie Noordgebouw","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=2a8e7cbd-6ee4-4936-8624-dacb251edff8","http:\/\/schema.org\/fileSize":62160}
+                }
+            ]
+        },
+        {
+            "rank": 37,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=2a99efc0-efc5-427c-bd15-53778080eacf",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"2a99efc0-efc5-427c-bd15-53778080eacf","http:\/\/schema.org\/name":"Besluitenhistorie Lombokplein.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=2a99efc0-efc5-427c-bd15-53778080eacf","http:\/\/schema.org\/fileSize":226171,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 38,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=2a99efc0-efc5-427c-bd15-53778080eacf",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"2a99efc0-efc5-427c-bd15-53778080eacf","http:\/\/schema.org\/name":"Besluitenhistorie Lombokplein.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=2a99efc0-efc5-427c-bd15-53778080eacf","http:\/\/schema.org\/fileSize":226171,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 39,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=2b0f7356-f1b3-4d21-b82a-4363e5702e03",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"2b0f7356-f1b3-4d21-b82a-4363e5702e03","http:\/\/schema.org\/name":"Bijlage 2 Besluitenhistorie fietsparkeren","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=2b0f7356-f1b3-4d21-b82a-4363e5702e03","http:\/\/schema.org\/fileSize":84884,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 40,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=2c8a6ef2-e8f7-4bb6-b982-8bffaab0165e",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"2c8a6ef2-e8f7-4bb6-b982-8bffaab0165e","http:\/\/schema.org\/name":"Besluitenhistorie Veldhuizen.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=2c8a6ef2-e8f7-4bb6-b982-8bffaab0165e","http:\/\/schema.org\/fileSize":49075,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 41,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=2dad57e1-f68b-48b0-849f-3302d7251a22",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"2dad57e1-f68b-48b0-849f-3302d7251a22","http:\/\/schema.org\/name":"Bijlage 2 Besluitenhistorie Smakkelaarsveld.docx","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=2dad57e1-f68b-48b0-849f-3302d7251a22","http:\/\/schema.org\/fileSize":72432}
+                }
+            ]
+        },
+        {
+            "rank": 42,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=30b7420f-def8-446b-abe9-223fc91c1edc",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"30b7420f-def8-446b-abe9-223fc91c1edc","http:\/\/schema.org\/name":"Bijlage 3 besluitenhistorie Zuidgebouw","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=30b7420f-def8-446b-abe9-223fc91c1edc","http:\/\/schema.org\/fileSize":180705,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 43,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=30f035e1-bea1-4365-afe6-d90e243c9aea",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"30f035e1-bea1-4365-afe6-d90e243c9aea","http:\/\/schema.org\/name":"Besluitenhistorie Jaarbeurs","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=30f035e1-bea1-4365-afe6-d90e243c9aea","http:\/\/schema.org\/fileSize":913922,"http:\/\/schema.org\/position":0}
+                }
+            ]
+        },
+        {
+            "rank": 44,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=31512e4f-5488-4d5d-b660-a2ce8522c553",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"31512e4f-5488-4d5d-b660-a2ce8522c553","http:\/\/schema.org\/name":"Besluitenhistorie Het Nieuwe Zandpad.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=31512e4f-5488-4d5d-b660-a2ce8522c553","http:\/\/schema.org\/fileSize":103755,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 45,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=33a21dc5-5212-4b7f-8bdd-96c2b0697508",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"33a21dc5-5212-4b7f-8bdd-96c2b0697508","http:\/\/schema.org\/name":"Bijlage+3+besluitenhistorie+Zuidgebouw","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=33a21dc5-5212-4b7f-8bdd-96c2b0697508","http:\/\/schema.org\/fileSize":180720}
+                }
+            ]
+        },
+        {
+            "rank": 46,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=33cdc567-ff52-4f9b-8be7-e92c3bd8d74b",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"33cdc567-ff52-4f9b-8be7-e92c3bd8d74b","http:\/\/schema.org\/name":"Besluitenhistorie Tervisielegging Onteigeningsplan Overste den Oudenlaan.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=33cdc567-ff52-4f9b-8be7-e92c3bd8d74b","http:\/\/schema.org\/fileSize":93658,"http:\/\/schema.org\/position":10}
+                }
+            ]
+        },
+        {
+            "rank": 47,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=37dc68f2-250c-47a0-824b-ad5a0dec26a5",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"37dc68f2-250c-47a0-824b-ad5a0dec26a5","http:\/\/schema.org\/name":"Besluitenhistorie MPSO 2010-2014.docx","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=37dc68f2-250c-47a0-824b-ad5a0dec26a5","http:\/\/schema.org\/fileSize":54448}
+                }
+            ]
+        },
+        {
+            "rank": 48,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=397a6656-d188-4d22-83f7-bce7411f9434",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"397a6656-d188-4d22-83f7-bce7411f9434","http:\/\/schema.org\/name":"15.159 Besluitenhistorie Smakkelaarsveld","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=397a6656-d188-4d22-83f7-bce7411f9434","http:\/\/schema.org\/fileSize":189614,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 49,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=3b0c5901-48ac-4f47-ba6f-441a5b8eda2f",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"3b0c5901-48ac-4f47-ba6f-441a5b8eda2f","http:\/\/schema.org\/name":"3. 2015 02 01 Besluitenhistorie Leeuwensteyn WTC - def","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=3b0c5901-48ac-4f47-ba6f-441a5b8eda2f","http:\/\/schema.org\/fileSize":328336}
+                }
+            ]
+        },
+        {
+            "rank": 50,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=3e953295-bc00-4744-b3be-5ab2de0134e9",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"3e953295-bc00-4744-b3be-5ab2de0134e9","http:\/\/schema.org\/name":"Besluitenhistorie Utrecht Circulair.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=3e953295-bc00-4744-b3be-5ab2de0134e9","http:\/\/schema.org\/fileSize":57413,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 51,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=3ece75f1-fc92-4531-9e8c-5c5d88ce2976",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"3ece75f1-fc92-4531-9e8c-5c5d88ce2976","http:\/\/schema.org\/name":"Besluitenhistorie Kader grootschalige opvanglocaties.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=3ece75f1-fc92-4531-9e8c-5c5d88ce2976","http:\/\/schema.org\/fileSize":134207,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 52,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=4055759c-8f5a-46fa-829a-6127b09e3d5a",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"4055759c-8f5a-46fa-829a-6127b09e3d5a","http:\/\/schema.org\/name":"Besluitenhistorie bij wijzigingsvoorstel APV tegengaan onveilig.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=4055759c-8f5a-46fa-829a-6127b09e3d5a","http:\/\/schema.org\/fileSize":56651,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 53,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=446e82ce-78f2-498b-a81c-30b94142b0d9",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"446e82ce-78f2-498b-a81c-30b94142b0d9","http:\/\/schema.org\/name":"Bijlage Besluitenhistorie Stationsplein Oost","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=446e82ce-78f2-498b-a81c-30b94142b0d9","http:\/\/schema.org\/fileSize":50774,"http:\/\/schema.org\/position":1}
+                }
+            ]
+        },
+        {
+            "rank": 54,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=45d71d41-0613-4d98-8dd9-01df40e8b2a8",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"45d71d41-0613-4d98-8dd9-01df40e8b2a8","http:\/\/schema.org\/name":"Besluitenhistorie.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=45d71d41-0613-4d98-8dd9-01df40e8b2a8","http:\/\/schema.org\/fileSize":46497,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 55,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=46a5b626-cfbc-4f37-a4ef-7d280e5cd800",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"46a5b626-cfbc-4f37-a4ef-7d280e5cd800","http:\/\/schema.org\/name":"Bijlage 7 Besluitenhistorie Parkeergarage Jaarbeursplein","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=46a5b626-cfbc-4f37-a4ef-7d280e5cd800","http:\/\/schema.org\/fileSize":44515,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 56,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=46b9aabe-3958-4b6f-833e-051c9aefcc6a",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"46b9aabe-3958-4b6f-833e-051c9aefcc6a","http:\/\/schema.org\/name":"Besluitenhistorie modellenstudie Kop Amsterdamsestraatweg Oude Daalstraat.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=46b9aabe-3958-4b6f-833e-051c9aefcc6a","http:\/\/schema.org\/fileSize":94198,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 57,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=4985204f-c1eb-49c8-8cf9-bc68eda5de84",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"4985204f-c1eb-49c8-8cf9-bc68eda5de84","http:\/\/schema.org\/name":"Bijlage 1 Besluitenhistorie.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=4985204f-c1eb-49c8-8cf9-bc68eda5de84","http:\/\/schema.org\/fileSize":45764,"http:\/\/schema.org\/position":1}
+                }
+            ]
+        },
+        {
+            "rank": 58,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=4af09538-bd25-4962-8257-8dedc3d76743",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"4af09538-bd25-4962-8257-8dedc3d76743","http:\/\/schema.org\/name":"Besluitenhistorie Veldhuizen.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=4af09538-bd25-4962-8257-8dedc3d76743","http:\/\/schema.org\/fileSize":49075,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 59,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=4bd05df7-ec77-4e46-b4d4-c1df4c16abcc",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"4bd05df7-ec77-4e46-b4d4-c1df4c16abcc","http:\/\/schema.org\/name":"Besluitenhistorie.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=4bd05df7-ec77-4e46-b4d4-c1df4c16abcc","http:\/\/schema.org\/fileSize":62115,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 60,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=4c2e3e55-de3b-4387-9234-8b241439fd32",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"4c2e3e55-de3b-4387-9234-8b241439fd32","http:\/\/schema.org\/name":"Bijlage 5 Besluitenhistorie Van Sijpesteijnkwartier","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=4c2e3e55-de3b-4387-9234-8b241439fd32","http:\/\/schema.org\/fileSize":48869,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 61,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=4d2f4374-e371-4a60-8bed-3cb0b8871cfe",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"4d2f4374-e371-4a60-8bed-3cb0b8871cfe","http:\/\/schema.org\/name":"Bijlage 6 Besluitenhistorie Jaarbeursplein eo","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=4d2f4374-e371-4a60-8bed-3cb0b8871cfe","http:\/\/schema.org\/fileSize":48832,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 62,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=4f2e7991-c065-42dd-b8fb-702d1f695717",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"4f2e7991-c065-42dd-b8fb-702d1f695717","http:\/\/schema.org\/name":"Bijlage 2 Besluitenhistorie Westflank Noord","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=4f2e7991-c065-42dd-b8fb-702d1f695717","http:\/\/schema.org\/fileSize":236640}
+                }
+            ]
+        },
+        {
+            "rank": 63,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=521b203a-d8d9-418b-9612-46c6555e77fd",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"521b203a-d8d9-418b-9612-46c6555e77fd","http:\/\/schema.org\/name":"Bijlage 5 Besluitenhistorie Stadskantoor","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=521b203a-d8d9-418b-9612-46c6555e77fd","http:\/\/schema.org\/fileSize":65946,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 64,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=53f5211f-00fe-47f5-b54b-d055b23ef3b3",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"53f5211f-00fe-47f5-b54b-d055b23ef3b3","http:\/\/schema.org\/name":"Bijlage 2 Besluitenhistorie Catharijneknoop","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=53f5211f-00fe-47f5-b54b-d055b23ef3b3","http:\/\/schema.org\/fileSize":74870,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 65,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=57ea1266-f1c6-42cf-9f0c-462f7e23382f",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"57ea1266-f1c6-42cf-9f0c-462f7e23382f","http:\/\/schema.org\/name":"Besluitenhistorie Jaarbeurs","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=57ea1266-f1c6-42cf-9f0c-462f7e23382f","http:\/\/schema.org\/fileSize":928032}
+                }
+            ]
+        },
+        {
+            "rank": 66,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=593f161b-c768-43d7-9071-ca058a6d6c2c",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"593f161b-c768-43d7-9071-ca058a6d6c2c","http:\/\/schema.org\/name":"Besluitenhistorie Parkeerregime Cartesiusdriehoek.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=593f161b-c768-43d7-9071-ca058a6d6c2c","http:\/\/schema.org\/fileSize":92113,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 67,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=5ae9b4ad-5b47-41a3-9c00-b4586262ed22",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"5ae9b4ad-5b47-41a3-9c00-b4586262ed22","http:\/\/schema.org\/name":"Besluitenhistorie Nota van uitgangspunten 'Op weg naar nieuw beleid amateurkunsteducatie.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=5ae9b4ad-5b47-41a3-9c00-b4586262ed22","http:\/\/schema.org\/fileSize":46934,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 68,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=5c9b2f28-31b7-4daf-bdaa-f44ee93eee5a",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"5c9b2f28-31b7-4daf-bdaa-f44ee93eee5a","http:\/\/schema.org\/name":"Bijlage Besluitenhistorie Stationsplein oost","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=5c9b2f28-31b7-4daf-bdaa-f44ee93eee5a","http:\/\/schema.org\/fileSize":65396,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 69,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=5d559993-7651-4c56-8de7-fbb7bd3328d6",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"5d559993-7651-4c56-8de7-fbb7bd3328d6","http:\/\/schema.org\/name":"Besluitenhistorie modellenstudie Kop Amsterdamsestraatweg Oude Daalstraat.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=5d559993-7651-4c56-8de7-fbb7bd3328d6","http:\/\/schema.org\/fileSize":94198,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 70,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=5e822b64-7d25-4791-9e3d-3c1d56c82b14",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"5e822b64-7d25-4791-9e3d-3c1d56c82b14","http:\/\/schema.org\/name":"besluitenhistorie Forum","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=5e822b64-7d25-4791-9e3d-3c1d56c82b14","http:\/\/schema.org\/fileSize":208574,"http:\/\/schema.org\/position":0}
+                }
+            ]
+        },
+        {
+            "rank": 71,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=5fe37f7d-2a71-45b9-aeb9-02394c8af99a",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"5fe37f7d-2a71-45b9-aeb9-02394c8af99a","http:\/\/schema.org\/name":"BOO_Jaarbeurspleingebouw_Besluitenhistorie Van Sijpesteijnkwartier Vastgoed","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=5fe37f7d-2a71-45b9-aeb9-02394c8af99a","http:\/\/schema.org\/fileSize":59807,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 72,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=605756d8-6669-48ec-a80e-afa52740b47f",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"605756d8-6669-48ec-a80e-afa52740b47f","http:\/\/schema.org\/name":"Besluitenhistorie bij ontwerp beleidsplan 2020-2023 VRU.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=605756d8-6669-48ec-a80e-afa52740b47f","http:\/\/schema.org\/fileSize":47078,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 73,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6139048c-66c0-415d-be0d-56cdfa789ea8",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"6139048c-66c0-415d-be0d-56cdfa789ea8","http:\/\/schema.org\/name":"Besluitenhistorie bij Verordening Jeugdhulp 2020.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6139048c-66c0-415d-be0d-56cdfa789ea8","http:\/\/schema.org\/fileSize":45622,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 74,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6328dc36-607d-4c00-a35c-9d6cc548a07e",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"6328dc36-607d-4c00-a35c-9d6cc548a07e","http:\/\/schema.org\/name":"besluitenhistorie Doorontwikkeling Jongerenfonds.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6328dc36-607d-4c00-a35c-9d6cc548a07e","http:\/\/schema.org\/fileSize":43927,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 75,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=63f8f5f4-f285-40b9-94a7-5d37e7c4b6c1",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"63f8f5f4-f285-40b9-94a7-5d37e7c4b6c1","http:\/\/schema.org\/name":"Besluitenhistorie Verordening Cliëntenparticipatie Werk en Inkomen 2020.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=63f8f5f4-f285-40b9-94a7-5d37e7c4b6c1","http:\/\/schema.org\/fileSize":50719,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 76,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=64e2862c-55b7-4133-9a73-853ec025f392",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"64e2862c-55b7-4133-9a73-853ec025f392","http:\/\/schema.org\/name":"Bijlage 1 Besluitenhistorie Stationsplein Oost","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=64e2862c-55b7-4133-9a73-853ec025f392","http:\/\/schema.org\/fileSize":40809,"http:\/\/schema.org\/position":1}
+                }
+            ]
+        },
+        {
+            "rank": 77,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=65775edc-338c-480d-83f2-7c4bc135e080",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"65775edc-338c-480d-83f2-7c4bc135e080","http:\/\/schema.org\/name":"Besluitenhistorie Wiel met spaken.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=65775edc-338c-480d-83f2-7c4bc135e080","http:\/\/schema.org\/fileSize":149001,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 78,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=665e32b9-7299-4f3c-a1e2-9c1765eb4803",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"665e32b9-7299-4f3c-a1e2-9c1765eb4803","http:\/\/schema.org\/name":"Bijlage 2 Besluitenhistorie Parkeergarage Jaarbeursplein","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=665e32b9-7299-4f3c-a1e2-9c1765eb4803","http:\/\/schema.org\/fileSize":188,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 79,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=67024dcc-3e3e-4d84-8416-4897b3df8ebc",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"67024dcc-3e3e-4d84-8416-4897b3df8ebc","http:\/\/schema.org\/name":"Bijlage 3 Besluitenhistorie Leeuwensteyn WTC","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=67024dcc-3e3e-4d84-8416-4897b3df8ebc","http:\/\/schema.org\/fileSize":337712}
+                }
+            ]
+        },
+        {
+            "rank": 80,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6874e251-233c-4284-98f3-fb8ba9f0b24d",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"6874e251-233c-4284-98f3-fb8ba9f0b24d","http:\/\/schema.org\/name":"Besluitenhistorie Nota lokale heffingen.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6874e251-233c-4284-98f3-fb8ba9f0b24d","http:\/\/schema.org\/fileSize":46905,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 81,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6b8be238-c2cb-48fa-9e95-c07db76d890b",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"6b8be238-c2cb-48fa-9e95-c07db76d890b","http:\/\/schema.org\/name":"Besluitenhistorie Nedereindse Plas.docx","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6b8be238-c2cb-48fa-9e95-c07db76d890b","http:\/\/schema.org\/fileSize":62100,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 82,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6c4b91c0-9581-4089-af4b-c21f13783355",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"6c4b91c0-9581-4089-af4b-c21f13783355","http:\/\/schema.org\/name":"Bijlage Besluitenhistorie lombokplein en westpleintunnel","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6c4b91c0-9581-4089-af4b-c21f13783355","http:\/\/schema.org\/fileSize":121721,"http:\/\/schema.org\/position":1}
+                }
+            ]
+        },
+        {
+            "rank": 83,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6e427e6d-600d-4eee-ae7c-31b2710425aa",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"6e427e6d-600d-4eee-ae7c-31b2710425aa","http:\/\/schema.org\/name":"Bijlage 3 Besluitenhistorie Bibliotheek++","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6e427e6d-600d-4eee-ae7c-31b2710425aa","http:\/\/schema.org\/fileSize":62640,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 84,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6e95de96-42a2-4573-bc5d-344d80224fc0",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"6e95de96-42a2-4573-bc5d-344d80224fc0","http:\/\/schema.org\/name":"Bijlage 3 Besluitenhistorie Jaarbeursplein eo","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6e95de96-42a2-4573-bc5d-344d80224fc0","http:\/\/schema.org\/fileSize":188,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 85,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6f87d1ae-bd82-45d4-9b4a-0a08dab2cf69",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"6f87d1ae-bd82-45d4-9b4a-0a08dab2cf69","http:\/\/schema.org\/name":"Besluitenhistorie Nota Kapitaal Goederen 2020 - 2023.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6f87d1ae-bd82-45d4-9b4a-0a08dab2cf69","http:\/\/schema.org\/fileSize":48506,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 86,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6ffabdcc-0be2-44e2-9567-19bb8b196d0d",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"6ffabdcc-0be2-44e2-9567-19bb8b196d0d","http:\/\/schema.org\/name":"Besluitenhistorie_ Vbb Kanaleneiland - Zuid_ Drommedaris.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=6ffabdcc-0be2-44e2-9567-19bb8b196d0d","http:\/\/schema.org\/fileSize":43979,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 87,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=70ad91c8-42ea-4997-abea-345b7692bbae",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"70ad91c8-42ea-4997-abea-345b7692bbae","http:\/\/schema.org\/name":"Besluitenhistorie over project Hardebollenstraat.doc","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=70ad91c8-42ea-4997-abea-345b7692bbae","http:\/\/schema.org\/fileSize":55760}
+                }
+            ]
+        },
+        {
+            "rank": 88,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=7186f3d1-6590-4931-8fe5-032a46841eb9",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"7186f3d1-6590-4931-8fe5-032a46841eb9","http:\/\/schema.org\/name":"Besluitenhistorie Verordening Cliëntenparticipatie Werk en Inkomen 2020.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=7186f3d1-6590-4931-8fe5-032a46841eb9","http:\/\/schema.org\/fileSize":50719,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 89,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=740c4728-cc15-4060-a60e-6cc532006dca",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"740c4728-cc15-4060-a60e-6cc532006dca","http:\/\/schema.org\/name":"Besluitenhistorie Bijdrage Gemeentefonds 2020 opsporen Conventionele Explosieven.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=740c4728-cc15-4060-a60e-6cc532006dca","http:\/\/schema.org\/fileSize":51630,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 90,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=7446e294-92cd-45bb-b010-91a76b9efca1",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"7446e294-92cd-45bb-b010-91a76b9efca1","http:\/\/schema.org\/name":"Besluitenhistorie Digitalisering gehandicaptenparkeerkaart.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=7446e294-92cd-45bb-b010-91a76b9efca1","http:\/\/schema.org\/fileSize":121067,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 91,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=75aff845-81bb-4dab-b748-175021101444",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"75aff845-81bb-4dab-b748-175021101444","http:\/\/schema.org\/name":"Besluitenhistorie Uitvoeringsprogramma Integraal Veiligheidsplan (IVP) 2019 - 2022.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=75aff845-81bb-4dab-b748-175021101444","http:\/\/schema.org\/fileSize":51440,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 92,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=77489ca4-6b29-4af0-8771-38c52f1e9c0a",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"77489ca4-6b29-4af0-8771-38c52f1e9c0a","http:\/\/schema.org\/name":"Besluitenhistorie Bijleveldweg 16 Haarzuilens.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=77489ca4-6b29-4af0-8771-38c52f1e9c0a","http:\/\/schema.org\/fileSize":48149,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 93,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=7752972d-c369-4f6b-9cc6-2e8e7ea5bdb2",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"7752972d-c369-4f6b-9cc6-2e8e7ea5bdb2","http:\/\/schema.org\/name":"Besluitenhistorie Uitvoeringsprogramma Integraal Veiligheidsplan (IVP) 2019 - 2022.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=7752972d-c369-4f6b-9cc6-2e8e7ea5bdb2","http:\/\/schema.org\/fileSize":51440,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 94,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=7993c970-26a9-4e6b-a7d9-ca2ecd748dff",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"7993c970-26a9-4e6b-a7d9-ca2ecd748dff","http:\/\/schema.org\/name":"Bijlage 1 Besluitenhistorie Sijpesteijnkade","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=7993c970-26a9-4e6b-a7d9-ca2ecd748dff","http:\/\/schema.org\/fileSize":58839,"http:\/\/schema.org\/position":1}
+                }
+            ]
+        },
+        {
+            "rank": 95,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=7f4bcee3-1dd3-44da-b592-caf360941c3f",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"7f4bcee3-1dd3-44da-b592-caf360941c3f","http:\/\/schema.org\/name":"Besluitenhistorie Nota lokale heffingen.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=7f4bcee3-1dd3-44da-b592-caf360941c3f","http:\/\/schema.org\/fileSize":46905,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 96,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=80005978-704d-495d-b6ed-7ae11e609fb4",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"80005978-704d-495d-b6ed-7ae11e609fb4","http:\/\/schema.org\/name":"Besluitenhistorie Strategie contracteren aanvullende Jeugdzorg vanaf 2020.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=80005978-704d-495d-b6ed-7ae11e609fb4","http:\/\/schema.org\/fileSize":55741,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 97,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=80eb631a-ae11-44a2-9531-66278cabcaf1",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"80eb631a-ae11-44a2-9531-66278cabcaf1","http:\/\/schema.org\/name":"besluitenhistorie hotel-woningen Jaarbeursplein","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=80eb631a-ae11-44a2-9531-66278cabcaf1","http:\/\/schema.org\/fileSize":212864,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 98,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=82986630-c9d6-4d25-909c-2b7eb0c37b1d",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"82986630-c9d6-4d25-909c-2b7eb0c37b1d","http:\/\/schema.org\/name":"Bijlage 3 Besluitenhistorie Van Sijpesteijnkwartier","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=82986630-c9d6-4d25-909c-2b7eb0c37b1d","http:\/\/schema.org\/fileSize":48869,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 99,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=83f9e60d-5d6a-4d8d-a665-bc614931c99b",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"83f9e60d-5d6a-4d8d-a665-bc614931c99b","http:\/\/schema.org\/name":"Bijlage Besluitenhistorie Westflank Noord","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=83f9e60d-5d6a-4d8d-a665-bc614931c99b","http:\/\/schema.org\/fileSize":48051,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 100,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=858d2881-1aa7-4baa-9ff2-173c521211d6",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"858d2881-1aa7-4baa-9ff2-173c521211d6","http:\/\/schema.org\/name":"Bijlage 4 Besluitenhistorie Stationsplein Oost","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=858d2881-1aa7-4baa-9ff2-173c521211d6","http:\/\/schema.org\/fileSize":40809,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 101,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=85b8dcc3-3618-4163-bd3a-2cd1bae42a3f",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"85b8dcc3-3618-4163-bd3a-2cd1bae42a3f","http:\/\/schema.org\/name":"Besluitenhistorie Event Space Stationsplein.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=85b8dcc3-3618-4163-bd3a-2cd1bae42a3f","http:\/\/schema.org\/fileSize":93978}
+                }
+            ]
+        },
+        {
+            "rank": 102,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=8642442d-9df8-45d7-bddf-db4bd7422008",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"8642442d-9df8-45d7-bddf-db4bd7422008","http:\/\/schema.org\/name":"BOO_Jaarbeurspleingebouw_Besluitenhistorie Parkeergarage","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=8642442d-9df8-45d7-bddf-db4bd7422008","http:\/\/schema.org\/fileSize":78742,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 103,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=87a2daed-7f68-444e-9af1-72ff12a8d819",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"87a2daed-7f68-444e-9af1-72ff12a8d819","http:\/\/schema.org\/name":"Besluitenhistorie Nota Kapitaal Goederen 2019 - 2023.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=87a2daed-7f68-444e-9af1-72ff12a8d819","http:\/\/schema.org\/fileSize":48506,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 104,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=885f0a2b-e728-4df4-9a86-8a4fe146707d",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"885f0a2b-e728-4df4-9a86-8a4fe146707d","http:\/\/schema.org\/name":"Besluitenhistorie Huisvestingsverordening Regio Utrecht 2019.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=885f0a2b-e728-4df4-9a86-8a4fe146707d","http:\/\/schema.org\/fileSize":58815,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 105,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=8ab74950-dd07-4f4a-ab2b-a614bf7f0422",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"8ab74950-dd07-4f4a-ab2b-a614bf7f0422","http:\/\/schema.org\/name":"Bijlage 2 Besluitenhistorie Westflank Noord","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=8ab74950-dd07-4f4a-ab2b-a614bf7f0422","http:\/\/schema.org\/fileSize":236626,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 106,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=8d5ba8db-c607-48fb-9539-c4d66f3c6344",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"8d5ba8db-c607-48fb-9539-c4d66f3c6344","http:\/\/schema.org\/name":"Besluitenhistorie Voorrangsplein 't Goylaan.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=8d5ba8db-c607-48fb-9539-c4d66f3c6344","http:\/\/schema.org\/fileSize":51746,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 107,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=8de590c8-fbc6-4c44-a42c-bbbbedf4c4b6",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"8de590c8-fbc6-4c44-a42c-bbbbedf4c4b6","http:\/\/schema.org\/name":"Besluitenhistorie Jaarbeurs","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=8de590c8-fbc6-4c44-a42c-bbbbedf4c4b6","http:\/\/schema.org\/fileSize":928018,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 108,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=8f672ee3-fd45-41b3-bd57-e2f62960cee0",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"8f672ee3-fd45-41b3-bd57-e2f62960cee0","http:\/\/schema.org\/name":"Besluitenhistorie bij voorstel tot wijziging APV_ partiële herziening 2019 (na M&S).pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=8f672ee3-fd45-41b3-bd57-e2f62960cee0","http:\/\/schema.org\/fileSize":57415,"http:\/\/schema.org\/position":8}
+                }
+            ]
+        },
+        {
+            "rank": 109,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9126f105-63e3-4cad-bacc-0bb70f616560",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"9126f105-63e3-4cad-bacc-0bb70f616560","http:\/\/schema.org\/name":"Besluitenhistorie bij 'Utrecht voor iedereen toegankelijk'.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9126f105-63e3-4cad-bacc-0bb70f616560","http:\/\/schema.org\/fileSize":54868,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 110,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=926172e4-fd8f-435e-9c65-60995cebb139",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"926172e4-fd8f-435e-9c65-60995cebb139","http:\/\/schema.org\/name":"besluitenhistorie Bestemmingsplan Hindesteinlaan.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=926172e4-fd8f-435e-9c65-60995cebb139","http:\/\/schema.org\/fileSize":117622,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 111,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=926b28df-4d48-467c-a983-4d5d51e014a2",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"926b28df-4d48-467c-a983-4d5d51e014a2","http:\/\/schema.org\/name":"Bijlage 2 Besluitenhistorie Stationsplein Oost","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=926b28df-4d48-467c-a983-4d5d51e014a2","http:\/\/schema.org\/fileSize":81168,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 112,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9393395c-32a7-44e7-9593-399c0d290a1c",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"9393395c-32a7-44e7-9593-399c0d290a1c","http:\/\/schema.org\/name":"Besluitenhistorie Actualisatie regelgeving subsidies.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9393395c-32a7-44e7-9593-399c0d290a1c","http:\/\/schema.org\/fileSize":52650,"http:\/\/schema.org\/position":10}
+                }
+            ]
+        },
+        {
+            "rank": 113,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=96f2ec56-646f-4994-b60a-1b6010e9440b",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"96f2ec56-646f-4994-b60a-1b6010e9440b","http:\/\/schema.org\/name":"Bijlage+3+Besluitenhistorie+Jaarbeurs","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=96f2ec56-646f-4994-b60a-1b6010e9440b","http:\/\/schema.org\/fileSize":663429,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 114,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9797d455-bc2a-4443-92ec-e147a46088e6",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"9797d455-bc2a-4443-92ec-e147a46088e6","http:\/\/schema.org\/name":"2.Besluitenhistorie Van Sijpesteijnkwartier","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9797d455-bc2a-4443-92ec-e147a46088e6","http:\/\/schema.org\/fileSize":56800}
+                }
+            ]
+        },
+        {
+            "rank": 115,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9b1e7846-4c32-4fa6-bf03-46fcdbdb31d1",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"9b1e7846-4c32-4fa6-bf03-46fcdbdb31d1","http:\/\/schema.org\/name":"Besluitenhistorie Werkbeweging.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9b1e7846-4c32-4fa6-bf03-46fcdbdb31d1","http:\/\/schema.org\/fileSize":103155,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 116,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9bbb0e96-8557-4a5a-be48-3b053f24c07e",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"9bbb0e96-8557-4a5a-be48-3b053f24c07e","http:\/\/schema.org\/name":"Besluitenhistorie Beurskwartier december 2018.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9bbb0e96-8557-4a5a-be48-3b053f24c07e","http:\/\/schema.org\/fileSize":108586,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 117,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9c4934ff-7ac6-46b0-8832-6d3ea7bd5dc6",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"9c4934ff-7ac6-46b0-8832-6d3ea7bd5dc6","http:\/\/schema.org\/name":"Besluitenhistorie Kader grootschalige opvanglocaties.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9c4934ff-7ac6-46b0-8832-6d3ea7bd5dc6","http:\/\/schema.org\/fileSize":134207,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 118,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9d388a6f-75ec-4ed2-867f-0cc4c042212a",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"9d388a6f-75ec-4ed2-867f-0cc4c042212a","http:\/\/schema.org\/name":"Besluitenhistorie Smakkelaarsveld.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9d388a6f-75ec-4ed2-867f-0cc4c042212a","http:\/\/schema.org\/fileSize":78582}
+                }
+            ]
+        },
+        {
+            "rank": 119,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9e5aacbc-08d5-4d44-9d51-4d7c94469216",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"9e5aacbc-08d5-4d44-9d51-4d7c94469216","http:\/\/schema.org\/name":"Besluitenhistorie Uitvoeringsprogramma Integraal Veiligheidsplan (IVP) 2019 - 2022.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9e5aacbc-08d5-4d44-9d51-4d7c94469216","http:\/\/schema.org\/fileSize":51440,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 120,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a049da45-b264-4f1d-ac16-7328b196795d",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"a049da45-b264-4f1d-ac16-7328b196795d","http:\/\/schema.org\/name":"Bijlage 1 Besluitenhistorie Rabobrug ter informatie","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a049da45-b264-4f1d-ac16-7328b196795d","http:\/\/schema.org\/fileSize":38423,"http:\/\/schema.org\/position":1}
+                }
+            ]
+        },
+        {
+            "rank": 121,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a074cb35-c17b-4a81-bb86-91079145f6c0",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"a074cb35-c17b-4a81-bb86-91079145f6c0","http:\/\/schema.org\/name":"Besluitenhistorie Strategie contracteren aanvullende Jeugdzorg vanaf 2020.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a074cb35-c17b-4a81-bb86-91079145f6c0","http:\/\/schema.org\/fileSize":55741,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 122,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a16a19c7-b60c-444d-9e55-dbd2c32af8be",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"a16a19c7-b60c-444d-9e55-dbd2c32af8be","http:\/\/schema.org\/name":"Bijlage 1 Besluitenhistorie Bibliotheek++","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a16a19c7-b60c-444d-9e55-dbd2c32af8be","http:\/\/schema.org\/fileSize":171772,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 123,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a17f1d91-c1c8-4794-a0aa-d9b8f10a029b",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"a17f1d91-c1c8-4794-a0aa-d9b8f10a029b","http:\/\/schema.org\/name":"Bijlage 3 Besluitenhistorie Stadskantoor","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a17f1d91-c1c8-4794-a0aa-d9b8f10a029b","http:\/\/schema.org\/fileSize":90930,"http:\/\/schema.org\/position":1}
+                }
+            ]
+        },
+        {
+            "rank": 124,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a203880d-0bf4-4c32-91f9-84cdeb0089b9",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"a203880d-0bf4-4c32-91f9-84cdeb0089b9","http:\/\/schema.org\/name":"Besluitenhistorie Samen voor Overvecht.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a203880d-0bf4-4c32-91f9-84cdeb0089b9","http:\/\/schema.org\/fileSize":46456,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 125,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a3fcae56-6d1a-47b8-88a1-1c1e1d056592",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"a3fcae56-6d1a-47b8-88a1-1c1e1d056592","http:\/\/schema.org\/name":"Besluitenhistorie bij ontwerp begroting 2020 VRU.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a3fcae56-6d1a-47b8-88a1-1c1e1d056592","http:\/\/schema.org\/fileSize":47001,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 126,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a422f486-9b68-40f9-ab84-af7c1fde9017",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"a422f486-9b68-40f9-ab84-af7c1fde9017","http:\/\/schema.org\/name":"Besluitenhistorie invoering Omgevingswet.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a422f486-9b68-40f9-ab84-af7c1fde9017","http:\/\/schema.org\/fileSize":57632,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 127,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a46a9d34-d602-40ef-97ea-231fb2ba7f1b",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"a46a9d34-d602-40ef-97ea-231fb2ba7f1b","http:\/\/schema.org\/name":"Bijlage 3 Besluitenhistorie Bibliotheek ++","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a46a9d34-d602-40ef-97ea-231fb2ba7f1b","http:\/\/schema.org\/fileSize":62640,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 128,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a4864884-8215-4d08-bda6-d0e6dedbb5d9",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"a4864884-8215-4d08-bda6-d0e6dedbb5d9","http:\/\/schema.org\/name":"Besluitenhistorie Voorbereidingsbesluit Merwedekanaalzone.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a4864884-8215-4d08-bda6-d0e6dedbb5d9","http:\/\/schema.org\/fileSize":93867,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 129,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a5db832a-c500-49bb-8636-fdf1c2d19bda",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"a5db832a-c500-49bb-8636-fdf1c2d19bda","http:\/\/schema.org\/name":"Besluitenhistorie Nota Dierenwelzijn.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a5db832a-c500-49bb-8636-fdf1c2d19bda","http:\/\/schema.org\/fileSize":76453,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 130,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a5e66238-c77a-4fd2-b4d2-ed51864fc335",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"a5e66238-c77a-4fd2-b4d2-ed51864fc335","http:\/\/schema.org\/name":"Besluitenhistorie Voortzetting Ondernemersfonds Utrecht.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a5e66238-c77a-4fd2-b4d2-ed51864fc335","http:\/\/schema.org\/fileSize":62278,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 131,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a6dbd9e2-ee0e-4cd6-83f2-e57f213ca79a",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"a6dbd9e2-ee0e-4cd6-83f2-e57f213ca79a","http:\/\/schema.org\/name":"Besluitenhistorie Bestemmingsplan Opaalweg_ Amethistweg_ Tolsteeg.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a6dbd9e2-ee0e-4cd6-83f2-e57f213ca79a","http:\/\/schema.org\/fileSize":49361,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 132,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a6ee5844-bbb1-40b1-a949-79003b715509",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"a6ee5844-bbb1-40b1-a949-79003b715509","http:\/\/schema.org\/name":"Besluitenhistorie Actualisering diverse gebieden 2019.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=a6ee5844-bbb1-40b1-a949-79003b715509","http:\/\/schema.org\/fileSize":47605,"http:\/\/schema.org\/position":17}
+                }
+            ]
+        },
+        {
+            "rank": 133,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ac089b3d-f8a6-4281-8156-65dff00dd4fd",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"ac089b3d-f8a6-4281-8156-65dff00dd4fd","http:\/\/schema.org\/name":"Besluitenhistorie Regionale Energiestrategie.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ac089b3d-f8a6-4281-8156-65dff00dd4fd","http:\/\/schema.org\/fileSize":49050,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 134,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ac698c10-fe7a-4d92-ab23-b1a07b303cc9",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"ac698c10-fe7a-4d92-ab23-b1a07b303cc9","http:\/\/schema.org\/name":"Bijlage 6 Besluitenhistorie Stadskantoor stand 12 maart 2009.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ac698c10-fe7a-4d92-ab23-b1a07b303cc9","http:\/\/schema.org\/fileSize":73211,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 135,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ae024745-5032-4f46-acb1-e44a878ccc6e",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"ae024745-5032-4f46-acb1-e44a878ccc6e","http:\/\/schema.org\/name":"Besluitenhistorie Voorjaarsnota 2019.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ae024745-5032-4f46-acb1-e44a878ccc6e","http:\/\/schema.org\/fileSize":50311,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 136,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ae7ae19a-b701-4e18-a04a-c8dcb1f6fc3f",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"ae7ae19a-b701-4e18-a04a-c8dcb1f6fc3f","http:\/\/schema.org\/name":"Bijlage 2 bij commissiebrief Besluitenhistorie project uithoflijn Stationsgebied.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ae7ae19a-b701-4e18-a04a-c8dcb1f6fc3f","http:\/\/schema.org\/fileSize":1758786}
+                }
+            ]
+        },
+        {
+            "rank": 137,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b0356fef-b081-4dda-9b98-6fcb8a4e6679",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"b0356fef-b081-4dda-9b98-6fcb8a4e6679","http:\/\/schema.org\/name":"Bijlage 6 Besluitenhistorie Van Sijpesteijnkwartier","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b0356fef-b081-4dda-9b98-6fcb8a4e6679","http:\/\/schema.org\/fileSize":188,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 138,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b185f1c2-9d51-4f46-ba61-08ff36b4c52a",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"b185f1c2-9d51-4f46-ba61-08ff36b4c52a","http:\/\/schema.org\/name":"Besluitenhistorie Nota lokale heffingen.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b185f1c2-9d51-4f46-ba61-08ff36b4c52a","http:\/\/schema.org\/fileSize":46905,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 139,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b230376a-8b86-4bb1-abc5-b6fd9ef42589",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"b230376a-8b86-4bb1-abc5-b6fd9ef42589","http:\/\/schema.org\/name":"Besluitenhistorie bij Vaststellen jaarrekeningen 2011-2018.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b230376a-8b86-4bb1-abc5-b6fd9ef42589","http:\/\/schema.org\/fileSize":45982,"http:\/\/schema.org\/position":11}
+                }
+            ]
+        },
+        {
+            "rank": 140,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b3b47eb1-d2ef-4fdf-affe-486731adfbd8",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"b3b47eb1-d2ef-4fdf-affe-486731adfbd8","http:\/\/schema.org\/name":"Bijlage 9 Besluitenhistorie Luchtkwaliteit.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b3b47eb1-d2ef-4fdf-affe-486731adfbd8","http:\/\/schema.org\/fileSize":50565,"http:\/\/schema.org\/position":13}
+                }
+            ]
+        },
+        {
+            "rank": 141,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b3b47eb1-d2ef-4fdf-affe-486731adfbd8",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"b3b47eb1-d2ef-4fdf-affe-486731adfbd8","http:\/\/schema.org\/name":"Bijlage 9 Besluitenhistorie Luchtkwaliteit.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b3b47eb1-d2ef-4fdf-affe-486731adfbd8","http:\/\/schema.org\/fileSize":50565,"http:\/\/schema.org\/position":13}
+                }
+            ]
+        },
+        {
+            "rank": 142,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b42db7f2-1dd2-4283-b4ce-1da0095b092d",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"b42db7f2-1dd2-4283-b4ce-1da0095b092d","http:\/\/schema.org\/name":"Besluitenhistorie bij Voorlopige jaarstukken 2018 Veiligheidsregio Utrecht.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b42db7f2-1dd2-4283-b4ce-1da0095b092d","http:\/\/schema.org\/fileSize":47011,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 143,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b44e2fe6-001f-4c30-9422-20c1bd1d792c",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"b44e2fe6-001f-4c30-9422-20c1bd1d792c","http:\/\/schema.org\/name":"Besluitenhistorie bij wijzigingsvoorstel APV tegengaan onveilig.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b44e2fe6-001f-4c30-9422-20c1bd1d792c","http:\/\/schema.org\/fileSize":56651,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 144,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b464b941-6eea-46e2-ade7-77868c3d3fd9",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"b464b941-6eea-46e2-ade7-77868c3d3fd9","http:\/\/schema.org\/name":"Besluitenhistorie aanpassing re-integratieverordening.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b464b941-6eea-46e2-ade7-77868c3d3fd9","http:\/\/schema.org\/fileSize":52099,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 145,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b4fb2a21-db14-4716-a0d7-47593c9b1ad0",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"b4fb2a21-db14-4716-a0d7-47593c9b1ad0","http:\/\/schema.org\/name":"Besluitenhistorie Samen voor Overvecht.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b4fb2a21-db14-4716-a0d7-47593c9b1ad0","http:\/\/schema.org\/fileSize":46456,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 146,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b7052f7d-7231-448a-a09e-f0502667d79a",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"b7052f7d-7231-448a-a09e-f0502667d79a","http:\/\/schema.org\/name":"Besluitenhistorie herinrichting Maliebaan.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b7052f7d-7231-448a-a09e-f0502667d79a","http:\/\/schema.org\/fileSize":46321,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 147,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b87d8929-f782-43c7-b241-d75715bc03a3",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"b87d8929-f782-43c7-b241-d75715bc03a3","http:\/\/schema.org\/name":"Besluitenhistorie Nota Kapitaal Goederen 2019 - 2023.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b87d8929-f782-43c7-b241-d75715bc03a3","http:\/\/schema.org\/fileSize":48506,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 148,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b89c51ec-1a44-46c9-a8f3-b90cf0f6395c",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"b89c51ec-1a44-46c9-a8f3-b90cf0f6395c","http:\/\/schema.org\/name":"Besluitenhistorie bestemmingsplan AcademieTien Leidsche Rijn Centrum Oost.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b89c51ec-1a44-46c9-a8f3-b90cf0f6395c","http:\/\/schema.org\/fileSize":51028,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 149,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b9b8d03f-52c0-4359-92c2-101c72e3bc55",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"b9b8d03f-52c0-4359-92c2-101c72e3bc55","http:\/\/schema.org\/name":"Besluitenhistorie Parkeerregime Cartesiusdriehoek.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=b9b8d03f-52c0-4359-92c2-101c72e3bc55","http:\/\/schema.org\/fileSize":93915,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 150,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ba613d1d-46ae-48c9-8864-d2955ab77c35",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"ba613d1d-46ae-48c9-8864-d2955ab77c35","http:\/\/schema.org\/name":"Bijlage 3 Besluitenhistorie Bibliotheek++","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ba613d1d-46ae-48c9-8864-d2955ab77c35","http:\/\/schema.org\/fileSize":171772,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 151,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ba9fe703-f406-466e-b532-036fab45db27",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"ba9fe703-f406-466e-b532-036fab45db27","http:\/\/schema.org\/name":"Bijlage 10 Besluitenhistorie Stadskantoor per 31 mei 2012","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ba9fe703-f406-466e-b532-036fab45db27","http:\/\/schema.org\/fileSize":96997,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 152,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=bbf7d957-473a-4085-b260-e7d611c39539",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"bbf7d957-473a-4085-b260-e7d611c39539","http:\/\/schema.org\/name":"Besluitenhistorie bij Voorlopige jaarstukken 2018 Veiligheidsregio Utrecht.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=bbf7d957-473a-4085-b260-e7d611c39539","http:\/\/schema.org\/fileSize":47011,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 153,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=bcc5ae81-8730-4b5d-aa93-298213e8527e",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"bcc5ae81-8730-4b5d-aa93-298213e8527e","http:\/\/schema.org\/name":"Besluitenhistorie Voortzetting Ondernemersfonds Utrecht.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=bcc5ae81-8730-4b5d-aa93-298213e8527e","http:\/\/schema.org\/fileSize":62278,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 154,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=be7be6b6-c822-4673-b422-b6b4e495605d",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"be7be6b6-c822-4673-b422-b6b4e495605d","http:\/\/schema.org\/name":"Bijlage Besluitenhistorie fietsparkeren excl tijdelijk fietsparkeren","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=be7be6b6-c822-4673-b422-b6b4e495605d","http:\/\/schema.org\/fileSize":55492,"http:\/\/schema.org\/position":1}
+                }
+            ]
+        },
+        {
+            "rank": 155,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=bf5876c3-b775-4b3f-8bcd-a0529f10c107",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"bf5876c3-b775-4b3f-8bcd-a0529f10c107","http:\/\/schema.org\/name":"Bijlage 1 bij commissiebrief besluitenhistorie project Uithoflijn Stationsgebied.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=bf5876c3-b775-4b3f-8bcd-a0529f10c107","http:\/\/schema.org\/fileSize":2106526}
+                }
+            ]
+        },
+        {
+            "rank": 156,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=c319280a-571a-43dd-adcb-24a62e5eff48",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"c319280a-571a-43dd-adcb-24a62e5eff48","http:\/\/schema.org\/name":"Bijlage 6 Besluitenhistorie fietsparkeren excl tijdelijk fietsparkeren","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=c319280a-571a-43dd-adcb-24a62e5eff48","http:\/\/schema.org\/fileSize":72786,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 157,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=c3c160ca-3942-46da-8b28-564dab94f9fc",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"c3c160ca-3942-46da-8b28-564dab94f9fc","http:\/\/schema.org\/name":"Besluitenhistorie Kredietaanvraag realisatie tijdelijke P&R terrein Business Park Papendorp.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=c3c160ca-3942-46da-8b28-564dab94f9fc","http:\/\/schema.org\/fileSize":48412,"http:\/\/schema.org\/position":8}
+                }
+            ]
+        },
+        {
+            "rank": 158,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=c71f38f0-cea1-4911-8a1a-783ae69941b9",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"c71f38f0-cea1-4911-8a1a-783ae69941b9","http:\/\/schema.org\/name":"Besluitenhistorie RSU 2040.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=c71f38f0-cea1-4911-8a1a-783ae69941b9","http:\/\/schema.org\/fileSize":123212,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 159,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=c76dbd99-f981-43a4-b296-2acc2ef20652",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"c76dbd99-f981-43a4-b296-2acc2ef20652","http:\/\/schema.org\/name":"Besluitenhistorie Wolvenplein.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=c76dbd99-f981-43a4-b296-2acc2ef20652","http:\/\/schema.org\/fileSize":92017,"http:\/\/schema.org\/position":8}
+                }
+            ]
+        },
+        {
+            "rank": 160,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=c8a3fff0-73af-4212-921f-5fe12531767e",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"c8a3fff0-73af-4212-921f-5fe12531767e","http:\/\/schema.org\/name":"Besluitenhistorie Voorjaarsnota 2019.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=c8a3fff0-73af-4212-921f-5fe12531767e","http:\/\/schema.org\/fileSize":50311,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 161,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=c8b03348-3194-46e5-a1e8-60f781fb605d",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"c8b03348-3194-46e5-a1e8-60f781fb605d","http:\/\/schema.org\/name":"Besluitenhistorie Utrechters Schuldenvrij.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=c8b03348-3194-46e5-a1e8-60f781fb605d","http:\/\/schema.org\/fileSize":54157,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 162,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=c9caf63d-d4f6-4119-9153-516762fe9493",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"c9caf63d-d4f6-4119-9153-516762fe9493","http:\/\/schema.org\/name":"Besluitenhistorie Noordgebouw","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=c9caf63d-d4f6-4119-9153-516762fe9493","http:\/\/schema.org\/fileSize":128401,"http:\/\/schema.org\/position":1}
+                }
+            ]
+        },
+        {
+            "rank": 163,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=cc2a839b-4d78-4421-9f9b-f4cf83f752b4",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"cc2a839b-4d78-4421-9f9b-f4cf83f752b4","http:\/\/schema.org\/name":"Besluitenhistorie bij Initiatiefvoorstel vuurwerkverbod.docx","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=cc2a839b-4d78-4421-9f9b-f4cf83f752b4","http:\/\/schema.org\/fileSize":42708,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 164,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=cde16e6f-c386-40d2-947a-502c260596ec",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"cde16e6f-c386-40d2-947a-502c260596ec","http:\/\/schema.org\/name":"Besluitenhistorie bestemmingsplan Gerbrandystraat.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=cde16e6f-c386-40d2-947a-502c260596ec","http:\/\/schema.org\/fileSize":50742,"http:\/\/schema.org\/position":9}
+                }
+            ]
+        },
+        {
+            "rank": 165,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=cec6760f-e87f-437c-bf37-29342795d4d9",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"cec6760f-e87f-437c-bf37-29342795d4d9","http:\/\/schema.org\/name":"Besluitenhistorie Nota Kapitaal Goederen 2020 - 2023.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=cec6760f-e87f-437c-bf37-29342795d4d9","http:\/\/schema.org\/fileSize":48506,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 166,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=cf833ed2-5317-46bf-bd0b-7ffc13715975",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"cf833ed2-5317-46bf-bd0b-7ffc13715975","http:\/\/schema.org\/name":"Besluitenhistorie Voorjaarsnota 2019.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=cf833ed2-5317-46bf-bd0b-7ffc13715975","http:\/\/schema.org\/fileSize":50311,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 167,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d0edfbab-2533-4147-b328-d7d707d7e0fa",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"d0edfbab-2533-4147-b328-d7d707d7e0fa","http:\/\/schema.org\/name":"Bijlage 3 Besluitenhistorie Westflank Zuid Knoopkazerne","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d0edfbab-2533-4147-b328-d7d707d7e0fa","http:\/\/schema.org\/fileSize":66074,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 168,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d22dce34-f1ea-4095-9d7a-49f58c0ffdc4",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"d22dce34-f1ea-4095-9d7a-49f58c0ffdc4","http:\/\/schema.org\/name":"Besluitenhistorie Zienswijzen recreatieschappen uitgangspunten 2021.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d22dce34-f1ea-4095-9d7a-49f58c0ffdc4","http:\/\/schema.org\/fileSize":49393,"http:\/\/schema.org\/position":19}
+                }
+            ]
+        },
+        {
+            "rank": 169,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d2318ca1-58e2-4631-8914-9bbb4fb18fb0",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"d2318ca1-58e2-4631-8914-9bbb4fb18fb0","http:\/\/schema.org\/name":"Besluitenhistorie Strategie contracteren Aanvullende Zorg Wmo vanaf 2020.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d2318ca1-58e2-4631-8914-9bbb4fb18fb0","http:\/\/schema.org\/fileSize":61349,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 170,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d2639cd2-9f9f-4acb-99d9-eec805b5c59f",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"d2639cd2-9f9f-4acb-99d9-eec805b5c59f","http:\/\/schema.org\/name":"Bijlage De Besluitenhistorie Smakkelaarsveld","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d2639cd2-9f9f-4acb-99d9-eec805b5c59f","http:\/\/schema.org\/fileSize":62849,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 171,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d2639cd2-9f9f-4acb-99d9-eec805b5c59f",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"d2639cd2-9f9f-4acb-99d9-eec805b5c59f","http:\/\/schema.org\/name":"Bijlage De Besluitenhistorie Smakkelaarsveld","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d2639cd2-9f9f-4acb-99d9-eec805b5c59f","http:\/\/schema.org\/fileSize":62849,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 172,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d4c5bd2b-48ea-4f5a-b201-31f89145dc17",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"d4c5bd2b-48ea-4f5a-b201-31f89145dc17","http:\/\/schema.org\/name":"3.Besluitenhistorie Parkeergarage Jaarbeursplein","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d4c5bd2b-48ea-4f5a-b201-31f89145dc17","http:\/\/schema.org\/fileSize":79024}
+                }
+            ]
+        },
+        {
+            "rank": 173,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d68aaf70-dd24-48a4-af83-9ac1a145d0b7",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"d68aaf70-dd24-48a4-af83-9ac1a145d0b7","http:\/\/schema.org\/name":"Bijlage 1 Besluitenhistorie Stadskantoor per 31 mei 2012","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d68aaf70-dd24-48a4-af83-9ac1a145d0b7","http:\/\/schema.org\/fileSize":96997,"http:\/\/schema.org\/position":1}
+                }
+            ]
+        },
+        {
+            "rank": 174,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d699fb1c-bd29-4896-90a2-952677686bb7",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"d699fb1c-bd29-4896-90a2-952677686bb7","http:\/\/schema.org\/name":"Besluitenhistorie.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d699fb1c-bd29-4896-90a2-952677686bb7","http:\/\/schema.org\/fileSize":44828,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 175,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d89bf4fc-c519-4a62-a043-b7d5553637fc",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"d89bf4fc-c519-4a62-a043-b7d5553637fc","http:\/\/schema.org\/name":"Besluitenhistorie tijdelijk verblijf.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d89bf4fc-c519-4a62-a043-b7d5553637fc","http:\/\/schema.org\/fileSize":95784,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 176,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d8e1080b-f972-44cd-9cdc-f3f0d6415743",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"d8e1080b-f972-44cd-9cdc-f3f0d6415743","http:\/\/schema.org\/name":"Besluitenhistorie Bijleveldweg 16 Haarzuilens.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d8e1080b-f972-44cd-9cdc-f3f0d6415743","http:\/\/schema.org\/fileSize":48149,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 177,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d9854eda-cb12-40ba-af2f-ea9ca87db9d0",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"d9854eda-cb12-40ba-af2f-ea9ca87db9d0","http:\/\/schema.org\/name":"Besluitenhistorie Strategie contracteren Aanvullende Zorg Wmo vanaf 2020.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d9854eda-cb12-40ba-af2f-ea9ca87db9d0","http:\/\/schema.org\/fileSize":61349,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 178,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d9a6f8a2-821c-4b3b-958b-c90ff2657175",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"d9a6f8a2-821c-4b3b-958b-c90ff2657175","http:\/\/schema.org\/name":"Bijlage 5 Besluitenhistorie Stadskantoor","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d9a6f8a2-821c-4b3b-958b-c90ff2657175","http:\/\/schema.org\/fileSize":65946,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 179,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=db62fa88-7032-4679-8ebe-9fbaf82c4a1a",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"db62fa88-7032-4679-8ebe-9fbaf82c4a1a","http:\/\/schema.org\/name":"Besluitenhistorie Omgevingsvisie Utrecht Science Park.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=db62fa88-7032-4679-8ebe-9fbaf82c4a1a","http:\/\/schema.org\/fileSize":51149,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 180,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=dd69d01f-ac19-41c5-abdf-299b9fe28d19",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"dd69d01f-ac19-41c5-abdf-299b9fe28d19","http:\/\/schema.org\/name":"Bijlage 7 Besluitenhistorie Bibliotheek","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=dd69d01f-ac19-41c5-abdf-299b9fe28d19","http:\/\/schema.org\/fileSize":88762,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 181,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=dd930650-f452-4c38-b579-e76414a5c25d",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"dd930650-f452-4c38-b579-e76414a5c25d","http:\/\/schema.org\/name":"Besluitenhistorie Jaarbeursplein eo","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=dd930650-f452-4c38-b579-e76414a5c25d","http:\/\/schema.org\/fileSize":264970,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 182,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=dfe79c1b-51cf-40ef-b2c6-1ba1e6bf42a2",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"dfe79c1b-51cf-40ef-b2c6-1ba1e6bf42a2","http:\/\/schema.org\/name":"Bijlage 3 Besluitenhistorie Muziekpaleis juni 2009.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=dfe79c1b-51cf-40ef-b2c6-1ba1e6bf42a2","http:\/\/schema.org\/fileSize":47865,"http:\/\/schema.org\/position":1}
+                }
+            ]
+        },
+        {
+            "rank": 183,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=e29a90cc-adb9-42b1-a3ad-5a2d15682b6f",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"e29a90cc-adb9-42b1-a3ad-5a2d15682b6f","http:\/\/schema.org\/name":"Besluitenhistorie Huisvestingsverordening Regio Utrecht 2019.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=e29a90cc-adb9-42b1-a3ad-5a2d15682b6f","http:\/\/schema.org\/fileSize":58815,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 184,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=e4c0574f-8c5f-453b-9265-648d86e8988c",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"e4c0574f-8c5f-453b-9265-648d86e8988c","http:\/\/schema.org\/name":"Besluitenhistorie+beheer+openbare+ruimte","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=e4c0574f-8c5f-453b-9265-648d86e8988c","http:\/\/schema.org\/fileSize":752128}
+                }
+            ]
+        },
+        {
+            "rank": 185,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=e509c7cb-998d-4f71-858a-c131e4d6ce79",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"e509c7cb-998d-4f71-858a-c131e4d6ce79","http:\/\/schema.org\/name":"3.Besluitenhistorie Parkeergarage Jaarbeursplein","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=e509c7cb-998d-4f71-858a-c131e4d6ce79","http:\/\/schema.org\/fileSize":79023,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 186,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=e638d5f8-f0e8-44b0-9168-bde292150c73",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"e638d5f8-f0e8-44b0-9168-bde292150c73","http:\/\/schema.org\/name":"Besluitenhistorie Utrecht Circulair","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=e638d5f8-f0e8-44b0-9168-bde292150c73","http:\/\/schema.org\/fileSize":57413,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 187,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=e7060255-3e1f-430e-abfb-834e28c8c411",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"e7060255-3e1f-430e-abfb-834e28c8c411","http:\/\/schema.org\/name":"Besluitenhistorie bij wijzigingsvoorstel APV hinderlijk lachgasgebruik.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=e7060255-3e1f-430e-abfb-834e28c8c411","http:\/\/schema.org\/fileSize":60615,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 188,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ea5c8216-9a7f-469a-bf59-9e838f793a3e",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"ea5c8216-9a7f-469a-bf59-9e838f793a3e","http:\/\/schema.org\/name":"Besluitenhistorie Wijziging Afvalstoffenverordening en APV 2010 i.v.m.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ea5c8216-9a7f-469a-bf59-9e838f793a3e","http:\/\/schema.org\/fileSize":48686,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 189,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ecbfa2c7-e336-47f1-bef2-08f16c7d09a7",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"ecbfa2c7-e336-47f1-bef2-08f16c7d09a7","http:\/\/schema.org\/name":"Besluitenhistorie Nota Dierenwelzijn.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ecbfa2c7-e336-47f1-bef2-08f16c7d09a7","http:\/\/schema.org\/fileSize":76453,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 190,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ee6e1dbf-8cce-46a0-ad54-044b3c65bd3a",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"ee6e1dbf-8cce-46a0-ad54-044b3c65bd3a","http:\/\/schema.org\/name":"Besluitenhistorie Actualisatie regelgeving subsidies.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ee6e1dbf-8cce-46a0-ad54-044b3c65bd3a","http:\/\/schema.org\/fileSize":52650,"http:\/\/schema.org\/position":10}
+                }
+            ]
+        },
+        {
+            "rank": 191,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ef968f44-6653-44c0-9f5e-029c0297975f",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"ef968f44-6653-44c0-9f5e-029c0297975f","http:\/\/schema.org\/name":"Bijlage 1 De Besluitenhistorie Smakkelaarsveld","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ef968f44-6653-44c0-9f5e-029c0297975f","http:\/\/schema.org\/fileSize":62849,"http:\/\/schema.org\/position":1}
+                }
+            ]
+        },
+        {
+            "rank": 192,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=efeed754-689c-4783-acad-494e9f7b93f7",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"efeed754-689c-4783-acad-494e9f7b93f7","http:\/\/schema.org\/name":"STREKT TER VERVANGING Besluitenhistorie bij voorstel tot wijziging APV_ partiële herziening .pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=efeed754-689c-4783-acad-494e9f7b93f7","http:\/\/schema.org\/fileSize":47582,"http:\/\/schema.org\/position":16}
+                }
+            ]
+        },
+        {
+            "rank": 193,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f1519565-d13a-41c6-9775-880188ea8148",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"f1519565-d13a-41c6-9775-880188ea8148","http:\/\/schema.org\/name":"Besluitenhistorie Omgevingsvisie Lunetten.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f1519565-d13a-41c6-9775-880188ea8148","http:\/\/schema.org\/fileSize":52405,"http:\/\/schema.org\/position":10}
+                }
+            ]
+        },
+        {
+            "rank": 194,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f17dee25-6951-4d7e-b320-298ad6177231",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"f17dee25-6951-4d7e-b320-298ad6177231","http:\/\/schema.org\/name":"Besluitenhistorie Zuidgebouw","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f17dee25-6951-4d7e-b320-298ad6177231","http:\/\/schema.org\/fileSize":51540,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 195,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f1933aa3-b72f-4879-be41-48cea4899869",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"f1933aa3-b72f-4879-be41-48cea4899869","http:\/\/schema.org\/name":"Commissiebrief Besluitenhistorie project Uithoflijn Stationsgebied.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f1933aa3-b72f-4879-be41-48cea4899869","http:\/\/schema.org\/fileSize":511173}
+                }
+            ]
+        },
+        {
+            "rank": 196,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f29f7735-7285-42f2-b3df-aa7cfeb68aea",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"f29f7735-7285-42f2-b3df-aa7cfeb68aea","http:\/\/schema.org\/name":"Besluitenhistorie Wijziging Afvalstoffenverordening en APV 2010 i.v.m.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f29f7735-7285-42f2-b3df-aa7cfeb68aea","http:\/\/schema.org\/fileSize":48686,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 197,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f2f81e38-6807-4f5b-8545-7aa2bf471611",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"f2f81e38-6807-4f5b-8545-7aa2bf471611","http:\/\/schema.org\/name":"Besluitenhistorie Vrouwjuttenhof_ Binnenstad.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f2f81e38-6807-4f5b-8545-7aa2bf471611","http:\/\/schema.org\/fileSize":48865,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 198,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f5499d56-874b-4fb8-8912-f398558c67aa",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"f5499d56-874b-4fb8-8912-f398558c67aa","http:\/\/schema.org\/name":"Besluitenhistorie invoering Omgevingswet.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f5499d56-874b-4fb8-8912-f398558c67aa","http:\/\/schema.org\/fileSize":58974,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 199,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f6a0d466-17b6-4848-93cd-b41d38a0f46e",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"f6a0d466-17b6-4848-93cd-b41d38a0f46e","http:\/\/schema.org\/name":"Besluitenhistorie Westpleintunnel","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f6a0d466-17b6-4848-93cd-b41d38a0f46e","http:\/\/schema.org\/fileSize":328073,"http:\/\/schema.org\/position":0}
+                }
+            ]
+        },
+        {
+            "rank": 200,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f6cb8144-074f-452c-b59b-6ae49d57c936",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"f6cb8144-074f-452c-b59b-6ae49d57c936","http:\/\/schema.org\/name":"Besluitenhistorie bij Verordening Jeugdhulp 2020.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f6cb8144-074f-452c-b59b-6ae49d57c936","http:\/\/schema.org\/fileSize":45622,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 201,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=fa3b17e8-c47d-40a9-a49f-d15f4b636e3c",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"fa3b17e8-c47d-40a9-a49f-d15f4b636e3c","http:\/\/schema.org\/name":"Bijlage Besluitenhistorie Hoge Woerd","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=fa3b17e8-c47d-40a9-a49f-d15f4b636e3c","http:\/\/schema.org\/fileSize":51199,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 202,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=fa3b17e8-c47d-40a9-a49f-d15f4b636e3c",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"fa3b17e8-c47d-40a9-a49f-d15f4b636e3c","http:\/\/schema.org\/name":"Bijlage Besluitenhistorie Hoge Woerd","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=fa3b17e8-c47d-40a9-a49f-d15f4b636e3c","http:\/\/schema.org\/fileSize":51199,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 203,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=fa929f65-56a6-4358-8247-3cf01a416286",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"fa929f65-56a6-4358-8247-3cf01a416286","http:\/\/schema.org\/name":"Besluitenhistorie Voorjaarsnota 2019.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=fa929f65-56a6-4358-8247-3cf01a416286","http:\/\/schema.org\/fileSize":50311,"http:\/\/schema.org\/position":5}
+                }
+            ]
+        },
+        {
+            "rank": 204,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=fad9f787-c967-4ffd-9628-0a88de532f0b",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"fad9f787-c967-4ffd-9628-0a88de532f0b","http:\/\/schema.org\/name":"Bijlage 3 Besluitenhistorie Jaarbeurs","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=fad9f787-c967-4ffd-9628-0a88de532f0b","http:\/\/schema.org\/fileSize":663440}
+                }
+            ]
+        },
+        {
+            "rank": 205,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=fb620849-d218-483d-9425-56bd6acc863f",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"fb620849-d218-483d-9425-56bd6acc863f","http:\/\/schema.org\/name":"Besluitenhistorie Bestemmingsplan Bartóklaan_ Schönberglaan_ Oog in Al.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=fb620849-d218-483d-9425-56bd6acc863f","http:\/\/schema.org\/fileSize":126736,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 206,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=fbd9ce4f-de97-4038-9cb5-53bee19d4820",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"fbd9ce4f-de97-4038-9cb5-53bee19d4820","http:\/\/schema.org\/name":"Bijlage 4 Besluitenhistorie Bibliotheek++","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=fbd9ce4f-de97-4038-9cb5-53bee19d4820","http:\/\/schema.org\/fileSize":171772,"http:\/\/schema.org\/position":4}
+                }
+            ]
+        },
+        {
+            "rank": 207,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=fcc0090a-9a8b-4679-9d88-64636189b342",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"fcc0090a-9a8b-4679-9d88-64636189b342","http:\/\/schema.org\/name":"Besluitenhistorie Kredietaanvraag realisatie tijdelijke P&R terrein Business Park Papendorp.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=fcc0090a-9a8b-4679-9d88-64636189b342","http:\/\/schema.org\/fileSize":44087,"http:\/\/schema.org\/position":6}
+                }
+            ]
+        },
+        {
+            "rank": 208,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=feb603e9-e141-45fd-8c42-8433f2224d2f",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"feb603e9-e141-45fd-8c42-8433f2224d2f","http:\/\/schema.org\/name":"Besluitenhistorie_ Voorbereidingsbesluit Carteisusweg e.o..pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=feb603e9-e141-45fd-8c42-8433f2224d2f","http:\/\/schema.org\/fileSize":45188,"http:\/\/schema.org\/position":2}
+                }
+            ]
+        },
+        {
+            "rank": 209,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ff9102c1-50f7-4c9b-a5fe-0354e44df3d1",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"ff9102c1-50f7-4c9b-a5fe-0354e44df3d1","http:\/\/schema.org\/name":"2.Besluitenhistorie Van Sijpesteijnkwartier","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=ff9102c1-50f7-4c9b-a5fe-0354e44df3d1","http:\/\/schema.org\/fileSize":56792,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 210,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"http:\/\/utrecht.nl\/data\/instrument\/275e1524-2938-4ac8-8a5c-76dd5b08ad7d",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Brief",
+                        "http:\/\/utrecht.nl\/data\/Instrument"
+                    ],
+                    "attributes": {"http:\/\/utrecht.nl\/data\/classification":"Brief","http:\/\/schema.org\/name":"Commissiebrief Besluitenhistorie project Uithoflijn Stationsgebied","http:\/\/schema.org\/identifier":"275e1524-2938-4ac8-8a5c-76dd5b08ad7d","portefeuillehouder":[{"@id":"http:\/\/utrecht.nl\/data\/person\/wethouder+lintmeijer","http:\/\/schema.org\/identifier":"wethouder lintmeijer","http:\/\/schema.org\/name":"Wethouder Lintmeijer"}],"activiteit":[{"@id":"http:\/\/utrecht.nl\/data\/activiteit\/275e1524-2938-4ac8-8a5c-76dd5b08ad7d","http:\/\/schema.org\/date":"2011-06-01","object":[{"@id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f1933aa3-b72f-4879-be41-48cea4899869","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=f1933aa3-b72f-4879-be41-48cea4899869"}]}]}
+                }
+            ]
+        }
+    ]
+}

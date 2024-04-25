@@ -1,0 +1,87 @@
+{
+    "offset": 0,
+    "count": 1000000,
+    "type": [
+        "OBJ"
+    ],
+    "items": [
+        {
+            "rank": 1,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=065abc00-e48a-426f-b05e-5b7152223adf",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"065abc00-e48a-426f-b05e-5b7152223adf","http:\/\/schema.org\/name":"Bijlage - Besluithistorie en procesbeschrijving Culturele Voorziening Leidsche Rijn Centrum","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=065abc00-e48a-426f-b05e-5b7152223adf","http:\/\/schema.org\/fileSize":264512,"http:\/\/schema.org\/position":1}
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=855bfc87-22da-4341-9753-e4b25e0e1c7e",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"855bfc87-22da-4341-9753-e4b25e0e1c7e","http:\/\/schema.org\/name":"Besluithistorie en procesbeschrijving Culturele Voorziening Leidsche Rijn Centrum 19-03-2021.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=855bfc87-22da-4341-9753-e4b25e0e1c7e","http:\/\/schema.org\/fileSize":267694,"http:\/\/schema.org\/position":0}
+                }
+            ]
+        },
+        {
+            "rank": 3,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=945729b6-27ee-4887-8fa1-5a78f5045970",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"945729b6-27ee-4887-8fa1-5a78f5045970","http:\/\/schema.org\/name":"Besluithistorie Zienswijzen ontwerpbegroting 2020.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=945729b6-27ee-4887-8fa1-5a78f5045970","http:\/\/schema.org\/fileSize":126421,"http:\/\/schema.org\/position":11}
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9a98b550-5499-4016-acad-efad37c1f1db",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"9a98b550-5499-4016-acad-efad37c1f1db","http:\/\/schema.org\/name":"Bijlage - Besluithistorie en procesbeschrijving Culturele Voorziening Leidsche Rijn Centrum","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=9a98b550-5499-4016-acad-efad37c1f1db","http:\/\/schema.org\/fileSize":264512,"http:\/\/schema.org\/position":7}
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=af6303cc-cbdb-44b4-9675-c8755711ec31",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"af6303cc-cbdb-44b4-9675-c8755711ec31","http:\/\/schema.org\/name":"Besluithistorie en procesbeschrijving Culturele Voorziening Leidsche Rijn Centrum 19-03-2021.pdf","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=af6303cc-cbdb-44b4-9675-c8755711ec31","http:\/\/schema.org\/fileSize":267694,"http:\/\/schema.org\/position":3}
+                }
+            ]
+        },
+        {
+            "rank": 6,
+            "probability": 1.0,
+            "tuple": [
+                {
+                    "id":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d7670e6d-f22b-48dd-b006-e39fc5372acb",
+                    "class": [
+                        "http:\/\/utrecht.nl\/data\/Document"
+                    ],
+                    "attributes": {"http:\/\/schema.org\/identifier":"d7670e6d-f22b-48dd-b006-e39fc5372acb","http:\/\/schema.org\/name":"Bijlage - Besluithistorie en procesbeschrijving Culturele Voorziening Leidsche Rijn Centrum","http:\/\/schema.org\/url":"https:\/\/api1.ibabs.eu\/publicdownload.aspx?site=Utrecht&id=d7670e6d-f22b-48dd-b006-e39fc5372acb","http:\/\/schema.org\/fileSize":264528}
+                }
+            ]
+        }
+    ]
+}

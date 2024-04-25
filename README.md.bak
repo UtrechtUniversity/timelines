@@ -29,7 +29,7 @@ The second approach has three sub-approaches where we investigate references of 
 Implementation is based on the public council information of the municipality of utrecht
 
 
-# How it works
+# Overview of components
 
 The main components are (in order of use):
 
